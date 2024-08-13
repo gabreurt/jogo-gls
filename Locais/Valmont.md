@@ -1,0 +1,3 @@
+![[Pasted image 20240812202347.png]]
+
+Localizada na base das montanhas, Valmont é uma pequena cidade predominantemente residencial, conhecida por seus invernos rigorosos e paisagens deslumbrantes. Com uma economia baseada principalmente no turismo sazonal, graças às suas estações de esqui e trilhas montanhosas, Valmont também possui algumas poucas indústrias locais que fornecem empregos aos moradores. No entanto, fora da temporada turística, as oportunidades de trabalho são escassas, levando muitos jovens a buscar melhores perspectivas em cidades maiores. O clima frio e a neve persistente durante grande parte do ano dão à cidade um ar isolado, reforçando a sensação de tranquilidade, mas também de limitação e estagnação.
