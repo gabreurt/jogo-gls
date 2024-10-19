@@ -152,4 +152,6 @@ IF [[Nicholas Sisyphos]] encontrado (Q6):
 	 Miguel: Hahahha fechou então. Nos vemos mais tarde!
 	 Nicholas: Belê!
 IF [[Aurora Ponziano]] encontrada (Hall):
-	
+	Miguel: Qual foi maluca? Tá fazendo o que? 
+	Aurora: Fui tentar pegar sinal lá fora pra ver se conseguia avisar a minha mãe que tava viva. Mas porra nenhuma, não tem sinal nenhum nessa ilha.
+	Miguel: 
