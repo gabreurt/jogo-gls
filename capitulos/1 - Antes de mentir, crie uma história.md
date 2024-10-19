@@ -121,3 +121,12 @@ Thomas: Bora!
 
 ## Cena 5: Explorando a casa
 Personagens participantes: [[Miguel Campos]]
+Miguel: Essa casa é muito linda!
+Diego: Que bom né? Deixamos nosso rim aqui! 
+Miguel: Hahaha, obrigado por trazer as minhas coisas! Vai fazer o que agora?
+Diego: Vou arrumar as minhas agora, só joguei a mala no quarto e vim te ajudar. E você?
+Miguel: Acho que vou dar uma explorada.
+Diego: Fechou, quando você tiver terminado passa lá no quarto.
+* Inicio da gameplay topdown
+
+IF [[Mirella Anansiah]] encontrada: 
