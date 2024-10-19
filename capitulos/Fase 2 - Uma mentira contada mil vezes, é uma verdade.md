@@ -4,7 +4,7 @@ Personagens participantes: [[Miguel Campos]], [[Mirella Anansiah]]
 
 Cena 4: Jardim do Airbnb da ilha
 
-Miguel pensando: Meu deus, todo mundo já chegou. Agora vou ter que cumprimentar todo mundo, que merda.
+Miguel pensando: Meu deus, que merda ter vindo no último barco, todo mundo já chegou. Agora vou ter que cumprimentar todo mundo.
 
 Miguel: Ei, Thomas!
 Thomas: Ei, Miguel!
@@ -19,6 +19,8 @@ Nick: To animado pra caralho. Esse lugar é muito bonito.
 Aurora: Ei, pessoal
 Miguel, Thomas: Ei, Aurora
 Nick: Como você tá?
-
+Aurora: Meio mal, aquele barco me deixou com enjoo, mas a Liz me deu um dramin, devo ficar legal em breve.
+Liz: Não há nada que um dramin e um dorflex não resolva na verdade.
+Liz: E aquele barco era muito foda
 
 **
