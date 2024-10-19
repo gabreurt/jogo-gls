@@ -142,4 +142,4 @@ IF [[Mirella Anansiah]] encontrada (Q2):
 	Mirella: Beijo.
 IF [[Nicholas Sisyphos]] encontrado (Q6):
 	 Miguel: Ei, Nick! Não sabia que esse era seu quarto, desculpa.
-	 Nicholas:
+	 Nicholas: Fica em paz, Miguel. 
