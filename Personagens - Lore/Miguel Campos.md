@@ -15,7 +15,7 @@ Miguel sempre teve o desejo de ser feliz, mas esse conceito parece sempre escapa
 
 Mesmo não querendo e tendo 0 habilidade social para isso, ele é representante do curso de Engenharia Mecatrônica, lidera o time de robótica da faculdade e é aluno destaque no segundo ano consecutivo. 
 
-Seu relacionamento com [[Martin Mauiiki]] foi um dos poucos momentos em que ele se sentiu realmente compreendido e aceito por alguém. Quando terminou, Miguel ficou devastado, mas, como é típico dele, guardou tudo para si. Não falou com ninguém sobre como aquilo o afetou, preferindo se enterrar nos estudos e nas poucas amizades que manteve.
+Seu relacionamento com [[Martin Maui’iki]] foi um dos poucos momentos em que ele se sentiu realmente compreendido e aceito por alguém. Quando terminou, Miguel ficou devastado, mas, como é típico dele, guardou tudo para si. Não falou com ninguém sobre como aquilo o afetou, preferindo se enterrar nos estudos e nas poucas amizades que manteve.
 
 **GOSTA DE:** Jogos de FPS, Vinho tinto seco, ouvir música
 **NÃO GOSTA DE:** Sair de casa, qualquer animal sem ser cachorro e gato
