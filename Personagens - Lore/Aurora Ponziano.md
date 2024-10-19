@@ -29,4 +29,5 @@ Precisava-se fazer um trabalho em grupo para a disciplina de Experiência de Usu
  Miguel viu em Aurora uma pessoa diferente das outras que ele conhecia: ela não se deixava levar pela massa e opinião da maioria, e ele admirava sua inteligência e sarcasmo. Aurora, por outro lado, encontrou em Miguel alguém com quem podia baixar a guarda e ser ela mesma, algo que não fazia facilmente.
 
  O ressentimento de Aurora começou a crescer quando ela mais precisava de Miguel, durante um período difícil em que enfrentava problemas pessoais e acadêmicos. Após brigar com seu pai no dia do aniversário da morte da sua mãe, Aurora queria um lugar para ficar que não fosse na sua casa.
+ 
  Já na chuva, ela ligou para Miguel, a pessoa em que ela se permitiu confiar. Miguel, que no momento estava tão deprimido com seu término, recusou e ignorou todas as chamadas e mensagens da sua amiga. Sentindo-se abandonada, Aurora começou a acreditar que Miguel a havia traído, escolhendo outros amigos e interesses ao invés de estar ao lado dela quando ela mais precisava. Ela internalizou esse sentimento, mas nunca confrontou Miguel diretamente sobre seus sentimentos.

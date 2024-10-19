@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personagens - Lore/Diego Odysseides.md",
+                "file": "capitulos/1 - Antes de mentir, crie uma história.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personagens - Lore/Diego Odysseides.md",
+                "file": "capitulos/1 - Antes de mentir, crie uma história.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personagens - Lore/Diego Odysseides.md",
+                "file": "capitulos/1 - Antes de mentir, crie uma história.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personagens - Lore/Diego Odysseides.md"
+                "file": "capitulos/1 - Antes de mentir, crie uma história.md"
               }
             }
           }
@@ -147,16 +147,16 @@
   },
   "active": "8691ce56d97afcfa",
   "lastOpenFiles": [
+    "capitulos/2 - Uma mentira contada mil vezes, é uma verdade.md",
     "capitulos/1 - Antes de mentir, crie uma história.md",
     "Personagens - Lore/Aurora Ponziano.md",
-    "Personagens - Lore/Mirella Anansiah.md",
-    "capitulos/2 - Uma mentira contada mil vezes, é uma verdade.md",
-    "capitulos/0 - Contexto.md",
-    "Personagens - Lore/Martin Maui’iki.md",
-    "Personagens - Lore/Thomas Yagovitch.md",
-    "Personagens - Lore/Nicholas Sisyphos.md",
-    "Personagens - Lore/Miguel Campos.md",
     "Personagens - Lore/Diego Odysseides.md",
+    "Personagens - Lore/Martin Maui’iki.md",
+    "Personagens - Lore/Miguel Campos.md",
+    "Personagens - Lore/Thomas Yagovitch.md",
+    "Personagens - Lore/Mirella Anansiah.md",
+    "capitulos/0 - Contexto.md",
+    "Personagens - Lore/Nicholas Sisyphos.md",
     "Personagens - Lore/Liz Lokistar.md",
     "Locais/Jardim Livre.md",
     "Locais/UEML.md",
