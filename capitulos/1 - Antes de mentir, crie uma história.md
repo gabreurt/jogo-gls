@@ -135,4 +135,11 @@ IF [[Mirella Anansiah]] encontrada (Q2):
 	Mirella: Obrigada! Senti sua falta na festa do Martin, mas entendo porque não foi também
 	Miguel: É... então....
 	Mirella: Mas vocês já tão se falando normal né? Vi lá na entrada.
-	Martin: Até que sim
+	Miguel: Até que sim, mas acho que ir na festa dele já seria demais pra mim. Ver ele beijando a Liz ia ser esquisito.
+	Mirella: Tudo bem, o importante é que você tá bem. 
+	Miguel: Vou ir explorar, nos falamos mais tarde.
+	Mirella: Beijo.
+	Mirella: Beijo.
+IF [[Nicholas Sisyphos]] encontrado (Q6):
+	 Miguel: Ei, Nick! Não sabia que esse era seu quarto, desculpa.
+	 Nicholas:
