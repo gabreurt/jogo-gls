@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5b1cab7445444f5f",
+        "id": "3f5410405a99000f",
         "type": "tabs",
         "children": [
           {
-            "id": "bb8cbb80cbd7e844",
+            "id": "8691ce56d97afcfa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "capitulos/1 - Antes de mentir, crie uma história.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ebc71f95da19ad7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personagens - Lore/Aurora Ponziano.md",
+                "file": "Personagens - Lore/Diego Odysseides.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "capitulos/1 - Antes de mentir, crie uma história.md",
+                "file": "Personagens - Lore/Diego Odysseides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "capitulos/1 - Antes de mentir, crie uma história.md",
+                "file": "Personagens - Lore/Diego Odysseides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "capitulos/1 - Antes de mentir, crie uma história.md"
+                "file": "Personagens - Lore/Diego Odysseides.md"
               }
             }
           }
@@ -157,14 +145,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb8cbb80cbd7e844",
+  "active": "8691ce56d97afcfa",
   "lastOpenFiles": [
-    "capitulos/2 - Uma mentira contada mil vezes, é uma verdade.md",
     "capitulos/1 - Antes de mentir, crie uma história.md",
-    "capitulos/0 - Contexto.md",
-    "Personagens - Lore/Martin Maui’iki.md",
     "Personagens - Lore/Aurora Ponziano.md",
     "Personagens - Lore/Mirella Anansiah.md",
+    "capitulos/2 - Uma mentira contada mil vezes, é uma verdade.md",
+    "capitulos/0 - Contexto.md",
+    "Personagens - Lore/Martin Maui’iki.md",
     "Personagens - Lore/Thomas Yagovitch.md",
     "Personagens - Lore/Nicholas Sisyphos.md",
     "Personagens - Lore/Miguel Campos.md",

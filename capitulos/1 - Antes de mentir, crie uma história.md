@@ -129,4 +129,4 @@ Miguel: Acho que vou dar uma explorada.
 Diego: Fechou, quando você tiver terminado passa lá no quarto.
 * Inicio da gameplay topdown
 
-IF [[Mirella Anansiah]] encontrada: 
+IF [[Mirella Anansiah]] encontrada ( ): 
