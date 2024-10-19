@@ -142,4 +142,14 @@ IF [[Mirella Anansiah]] encontrada (Q2):
 	Mirella: Beijo.
 IF [[Nicholas Sisyphos]] encontrado (Q6):
 	 Miguel: Ei, Nick! Não sabia que esse era seu quarto, desculpa.
-	 Nicholas: Fica em paz, Miguel. 
+	 Nicholas: Fica em paz, Miguel. Estamos de boa já.
+	 Miguel: Eu sei, só fiquei com medo haha. Mas que bom que estamos bem.
+	 Nicholas: Quais são seus planos para esse fim de semana? 
+	 Miguel: Ir em tudo o que tenho direito, da praia pra piscina, da pisicina pra hidro e fingir que não há problemas na vida. 
+	 Nicholas:  Hahahha
+	 Miguel: E o seu? 
+	 Nicholas: Literalmente a mesma coisa, meu cérebro não aguenta mais pensar em booleano.
+	 Miguel: Hahahha fechou então. Nos vemos mais tarde!
+	 Nicholas: Belê!
+IF [[Aurora Ponziano]] encontrada (Hall):
+	
