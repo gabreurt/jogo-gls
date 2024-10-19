@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a19e3414670ecd3a",
+        "id": "08616b9068a7a88c",
         "type": "tabs",
         "children": [
           {
-            "id": "b9c8239db5ef192f",
+            "id": "209e14d6232e33d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personagens - Lore/Liz Wandermurem.md",
+                "file": "Personagens - Lore/Nicholas Sisyphos.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 293.5124969482422
   },
   "right": {
     "id": "49d116011f0c3d13",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personagens - Lore/Liz Wandermurem.md",
+                "file": "Personagens - Lore/Nicholas Sisyphos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personagens - Lore/Liz Wandermurem.md",
+                "file": "Personagens - Lore/Nicholas Sisyphos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personagens - Lore/Liz Wandermurem.md"
+                "file": "Personagens - Lore/Nicholas Sisyphos.md"
               }
             }
           }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,8 +145,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b9c8239db5ef192f",
+  "active": "209e14d6232e33d0",
   "lastOpenFiles": [
+    "Personagens - Lore/Thomas Yagovitch.md",
+    "Personagens - Lore/Mirella Anansiah.md",
+    "Personagens - Lore/Miguel Campos.md",
+    "Personagens - Lore/Martin Mauiiki.md",
+    "Personagens - Lore/Diego Odysseides.md",
+    "Personagens - Lore/Aurora Ponziano.md",
+    "Personagens - Lore/Nicholas Sisyphos.md",
+    "Locais/Jardim Livre.md",
+    "Locais/UEML.md",
+    "Locais/Valmont.md",
+    "Locais/Vida Nova.md",
+    "Personagens - Lore/Liz Lokistar.md",
+    "capitulos/Fase 2 - Uma mentira contada mil vezes, é uma verdade.md",
+    "capitulos/Fase 1 - Antes de mentir, crie uma história.md",
+    "capitulos/Contexto.md",
+    "capitulos",
     "assets/Imagem do WhatsApp de 2024-08-12 à(s) 19.10.24_259ff4d3.jpg",
     "assets/teste.png",
     "assets/Pasted image 20240812224004.png",
@@ -158,21 +173,7 @@
     "assets/Pasted image 20240812204133.png",
     "assets/Pasted image 20240812202347.png",
     "assets/Pasted image 20240812202335.png",
-    "assets/Pasted image 20240812202315.png",
     "assets",
-    "Personagens - Lore/Miguel Campos.md",
-    "Locais/Vida Nova.md",
-    "Personagens - Lore/Diego Entringer.md",
-    "Personagens - Lore/Liz Wandermurem.md",
-    "Personagens - Lore/Martin Tavares.md",
-    "Personagens - Lore/Mirella Oliveira.md",
-    "Personagens - Lore/Nicholas Meira.md",
-    "Personagens - Lore/Thomas Souza.md",
-    "Personagens - Lore/Aurora Rios.md",
-    "Locais/Valmont.md",
-    "Locais/UEML - Universidade de Engenharia MegaLab.md",
-    "Locais/Jardim Livre.md",
-    "Fase 1 - Antes de mentir, crie uma história.md",
     "().md",
     "Locais",
     "Personagens - Lore",

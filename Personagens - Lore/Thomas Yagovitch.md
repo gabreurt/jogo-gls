@@ -1,0 +1,1 @@
+Pouco se sabe sobre o Thomas, ele acabou de entrar no grupo. Sabemos que ele nasceu e cresceu na periferia de [[Vida Nova]], que ele coleciona 
