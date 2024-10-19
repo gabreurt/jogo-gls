@@ -129,4 +129,10 @@ Miguel: Acho que vou dar uma explorada.
 Diego: Fechou, quando você tiver terminado passa lá no quarto.
 * Inicio da gameplay topdown
 
-IF [[Mirella Anansiah]] encontrada ( ): 
+IF [[Mirella Anansiah]] encontrada (Q2): 
+	Mirella: Ei, Miguel! 
+	Miguel: Ei, Mi! Teu quarto é muito bonito! 
+	Mirella: Obrigada! Senti sua falta na festa do Martin, mas entendo porque não foi também
+	Miguel: É... então....
+	Mirella: Mas vocês já tão se falando normal né? Vi lá na entrada.
+	Martin: Até que sim
