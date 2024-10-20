@@ -191,4 +191,9 @@ Miguel: Vamos!
 ## Cena 7: Jantar do primeiro dia
 Aurora: Aí a Liz ficou dançando no meio da mesa enquanto tava todo mundo tentando achar o brinco dela no meio da festa.
 Mirella: Detalhe: ela tinha bebido apenas DUAS latinhas
-Liz:
+Liz: Duas latinhas minhas, das delas eu bebi mais duas no mínimo.
+Thomas: Hahahaha 
+Thomas: E como foi pra vocês? 
+Martin: Cara. eu fiz de tudo no meu aniversário menos comer bolo.
+Diogo: Você perdeu porque o bolo estava maravilhoso
+Martin: Eu comi no outro dia
