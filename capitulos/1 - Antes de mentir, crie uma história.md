@@ -154,4 +154,11 @@ IF [[Nicholas Sisyphos]] encontrado (Q6):
 IF [[Aurora Ponziano]] encontrada (Hall):
 	Miguel: Eai maluca? Tá fazendo o que? 
 	Aurora: Fui tentar pegar sinal lá fora pra ver se conseguia avisar a minha mãe que tava viva. Mas porra nenhuma, não tem sinal nenhum nessa ilha.
-	Miguel: 
+	Miguel: Talvez seja um sinal pra você largar o celular e ir explorar comigo
+	Aurora: Hahaha, vou só trocar de roupa e podemos ir.
+IF [[Liz Lokistar]] encontrada (Sala de Jogos): 
+	Liz: Ei, Mi!
+	Miguel: Oi, Liz!
+	Liz: Tá afim de jogar? 
+	Miguel: Tô explorando a casa ainda. Cadê o Martin? 
+	Liz: Tá 
