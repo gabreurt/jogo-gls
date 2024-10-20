@@ -120,7 +120,8 @@ Thomas: Bora!
 **
 
 ## Cena 5: Explorando a casa
-Personagens participantes: [[Miguel Campos]]
+Personagens participantes: [[Miguel Campos]], [[Mirella Anansiah]], [[Aurora Ponziano]], [[Diego Odysseides]], [[Liz Lokistar]], [[Martin Maui’iki]], [[Nicholas Sisyphos]], [[Thomas Yagovitch]]. 
+
 Miguel: Essa casa é muito linda!
 Diego: Que bom né? Deixamos nosso rim aqui! 
 Miguel: Hahaha, obrigado por trazer as minhas coisas! Vai fazer o que agora?
@@ -179,4 +180,15 @@ IF [[Martin Maui’iki]] encontrado (Cozinha):
 	Miguel:  Uh, animado! 
 IF [[Thomas Yagovitch]] encontrado (varanda):
 	Thomas: canta parte da musica original 
-	Thomas: Gostou? To t
+	Thomas: Gostou? To terminando de escrever essa.
+	Miguel: Eu amei, Thomas! Parabéns!
+
+## Cena 6: Planos com Diego
+Miguel: Acabei de explorar, a casa é linda! 
+Diego: Acabei de arrumar aqui também! Vamos ver se o pessoal anima ir pra praia?
+Miguel: Vamos! 
+
+## Cena 7: Jantar do primeiro dia
+Aurora: Aí a Liz ficou dançando no meio da mesa enquanto tava todo mundo tentando achar o brinco dela no meio da festa.
+Mirella: Detalhe: ela tinha bebido apenas DUAS latinhas
+Liz:
