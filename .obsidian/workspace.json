@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "capitulos/1 - Antes de mentir, crie uma história.md",
+                "file": "Personagens - Lore/Thomas Yagovitch.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "capitulos/1 - Antes de mentir, crie uma história.md",
+                "file": "Personagens - Lore/Thomas Yagovitch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "capitulos/1 - Antes de mentir, crie uma história.md",
+                "file": "Personagens - Lore/Thomas Yagovitch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "capitulos/1 - Antes de mentir, crie uma história.md"
+                "file": "Personagens - Lore/Thomas Yagovitch.md"
               }
             }
           }
@@ -147,6 +147,7 @@
   },
   "active": "8691ce56d97afcfa",
   "lastOpenFiles": [
+    "capitulos/1 - Antes de mentir, crie uma história.md",
     "Personagens - Lore/Aurora Ponziano.md",
     "Personagens - Lore/Diego Odysseides.md",
     "Personagens - Lore/Liz Lokistar.md",
@@ -154,7 +155,6 @@
     "Personagens - Lore/Nicholas Sisyphos.md",
     "Personagens - Lore/Miguel Campos.md",
     "Personagens - Lore/Mirella Anansiah.md",
-    "capitulos/1 - Antes de mentir, crie uma história.md",
     "capitulos/2 - Uma mentira contada mil vezes, é uma verdade.md",
     "Personagens - Lore/Thomas Yagovitch.md",
     "capitulos/0 - Contexto.md",
