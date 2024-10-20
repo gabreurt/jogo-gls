@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personagens - Lore/Thomas Yagovitch.md",
+                "file": "Personagens - Lore/Miguel Campos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b4e2974c283975e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locais/Vida Nova.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personagens - Lore/Thomas Yagovitch.md",
+                "file": "Locais/Vida Nova.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personagens - Lore/Thomas Yagovitch.md",
+                "file": "Locais/Vida Nova.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personagens - Lore/Thomas Yagovitch.md"
+                "file": "Locais/Vida Nova.md"
               }
             }
           }
@@ -145,19 +158,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8691ce56d97afcfa",
+  "active": "2b4e2974c283975e",
   "lastOpenFiles": [
+    "Personagens - Lore/Miguel Campos.md",
+    "capitulos/2 - Uma mentira contada mil vezes, é uma verdade.md",
+    "capitulos/0 - Contexto.md",
     "capitulos/1 - Antes de mentir, crie uma história.md",
+    "Personagens - Lore/Thomas Yagovitch.md",
     "Personagens - Lore/Aurora Ponziano.md",
     "Personagens - Lore/Diego Odysseides.md",
     "Personagens - Lore/Liz Lokistar.md",
     "Personagens - Lore/Martin Maui’iki.md",
     "Personagens - Lore/Nicholas Sisyphos.md",
-    "Personagens - Lore/Miguel Campos.md",
     "Personagens - Lore/Mirella Anansiah.md",
-    "capitulos/2 - Uma mentira contada mil vezes, é uma verdade.md",
-    "Personagens - Lore/Thomas Yagovitch.md",
-    "capitulos/0 - Contexto.md",
     "Locais/Jardim Livre.md",
     "Locais/UEML.md",
     "Locais/Valmont.md",
