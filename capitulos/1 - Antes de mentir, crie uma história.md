@@ -196,4 +196,16 @@ Thomas: Hahahaha
 Thomas: E como foi pra vocês? 
 Martin: Cara. eu fiz de tudo no meu aniversário menos comer bolo.
 Diogo: Você perdeu porque o bolo estava maravilhoso
-Martin: Eu comi no outro dia
+Martin: Eu comi no outro dia tava sensacional! Mas eu só esqueci no dia.
+Mirella: Eu acordei 2 da manhã com esses animais gritando GOOOOOL e aí fiquei até as 4 bebendo de novo. 
+Nicholas: Eu não pude ir porque era o dia antes do Hamlet. O pessoal ficou ensaiando até 01h.
+Miguel: Não pude ir porque....
+Miguel: porque.....
+Miguel: ..........
+Miguel: eu tava meio mal
+Todos: .....
+Thomas: Com o que? 
+Aurora: E você, Thomas, não foi porque?
+Miguel: Tava com dor de cabeça, só
+Miguel (pensando): Credo, que merda, que clima merda.... Só quero sair daqui.
+Miguel: Vou lavar minhas coisas e deitar pessoal, os 
