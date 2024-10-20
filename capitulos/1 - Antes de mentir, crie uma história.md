@@ -173,4 +173,8 @@ IF [[Martin Maui’iki]] encontrado (Cozinha):
 	Miguel: Tive um problema de última hora, não consegui ir.
 	Martin: A gente sentiu sua falta. 
 	Miguel: Ah, talvez tenha sido melhor assim
-	Martin: 
+	Martin: Claro que não. Não foi o mesmo sem você.
+	Miguel: E o que vamos jantar hoje?
+	Martin: Um dos seus favoritos, macarrão com brócolis e bacon. 
+	Miguel:  Uh, animado! 
+IF [[Thomas Yagovitch]] encontrado ()
