@@ -27,12 +27,17 @@ Diego: "Não mais que o Gustavo né, não tou vendo o carro dele haha"
 
 Miguel: "E se não viajássemos e ficássemos aqui em casa jogando Overcooked e comendo Doritos?"
 
-Diego: "Miguel, alguma hora você vai ter que ver teu ex, querido! Se não for hoje vai ser na faculdade. Se tu quiser jogar 6 parcelas de pagamento fora, não vamos na viagem."  
-Miguel: "Mais do que orgulhoso eu sou pobre haha. Que saco, vamos sim."
+Diego:  "Só por qeu ex vai tá lá?"
+
+Miguel: "Porra, o cu tá na mão, medo de perguntarem no verdade ou desafio se eu ainda gosto do meu ex"
+
+Diego: "Todo mundo gosta da ex, mas tu vai ter que tirar essa cara de cu, por que uma hora você vai ter que ver ele.  Se quiser cancelar, lembra que você parcelou em 6 vezes no cartão da sua mãe, ela vai comer teu cu se tu não for"
+
+Miguel: "É melhor ver uma cara feia do que me mãe me arrombar. Que saco, vamo."
 
 Diego: "Quem sabe não é bom pra você botar um ponto final em alguns assuntos, Martin não é o único que você tá com problema no grupo."
 
-Miguel: "Não queria ter feito mal a ninguém, não faço a mínima ideia porque brigam comigo. Eu sou a pessoa mais paz e amor do Mundo."
+Miguel: "Não queria ter vacilado com ninguém, não faço a mínima ideia porque brigaram comigo. Eu sou a pessoa mais paz e amor do Mundo."
 
 Diego e Miguel: "KKKKKKKKKK”
 
@@ -55,8 +60,9 @@ Diego: “Tamo indo!!”
 Personagens participantes: [[Miguel Campos]], [[Aurora Ponziano]], [[Diego Odysseides]].
   
 
-Aurora: “Dá pra acreditar que finalmente chegou o dia? Achei que essa porra desse semestre nunca ia acabar e agora estamos indo para a porra da ilha!!
+Aurora: “Dá pra acreditar que finalmente chegou o dia? Achei que esse caralho desse semestre nunca ia acabar e agora estamos indo para da ilha(nome da ilha)!!
 
+Diego: "Cara eu acho que eu bombei em calculo"
 Diego: “Simmm! E olha que eu ainda nem sei se passei na merda do Cálculo 2. Juro que se esse cara decidir publicar a nota durante a viagem, assim que eu voltar, vou cagar na porta dele, a não ser que eu passe. Aí tá liberado.”
 
 Diego: “Aliás, como tá sua mãe?”
