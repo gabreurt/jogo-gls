@@ -208,4 +208,14 @@ Thomas: Com o que?
 Aurora: E você, Thomas, não foi porque?
 Miguel: Tava com dor de cabeça, só
 Miguel (pensando): Credo, que merda, que clima merda.... Só quero sair daqui.
-Miguel: Vou lavar minhas coisas e deitar pessoal, os 
+Miguel: Vou lavar minhas coisas e deitar pessoal, os caldos que levei me cansaram haha, continuem sem mim.
+Diogo: Ok, amigo....
+
+## Cena 8: Hora da morte: 00h13
+LOCAL: COZINHA
+Miguel: Que merda, que merda, que merda
+Miguel: Não consegui inventar nenhuma merda. Que ódio, que ódio, travei.
+
+*APAGÃO*
+
+Miguel: Ué, que merda. É essa tempestade do caralho. 
