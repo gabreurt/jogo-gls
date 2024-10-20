@@ -177,4 +177,6 @@ IF [[Martin Maui’iki]] encontrado (Cozinha):
 	Miguel: E o que vamos jantar hoje?
 	Martin: Um dos seus favoritos, macarrão com brócolis e bacon. 
 	Miguel:  Uh, animado! 
-IF [[Thomas Yagovitch]] encontrado ()
+IF [[Thomas Yagovitch]] encontrado (varanda):
+	Thomas: canta parte da musica original 
+	Thomas: Gostou? To t
