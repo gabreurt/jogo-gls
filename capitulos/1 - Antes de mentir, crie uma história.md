@@ -62,16 +62,17 @@ Personagens participantes: [[Miguel Campos]], [[Aurora Ponziano]], [[Diego Odyss
 
 Aurora: “Dá pra acreditar que finalmente chegou o dia? Achei que esse caralho desse semestre nunca ia acabar e agora estamos indo para da ilha(nome da ilha)!!
 
-Diego: "Cara eu acho que eu bombei em calculo"
+Diego (crisao): "Cara eu acho que eu bombei em calculo 2, pelas minhas contas, se eu acertasse metade da prova, dava. Agora se aquele corno inventar de publicar as notas na viagem, ele vai ter uma surpresa quando a gente voltar"
+
 Diego: “Simmm! E olha que eu ainda nem sei se passei na merda do Cálculo 2. Juro que se esse cara decidir publicar a nota durante a viagem, assim que eu voltar, vou cagar na porta dele, a não ser que eu passe. Aí tá liberado.”
 
 Diego: “Aliás, como tá sua mãe?”
 
-Aurora: “Depois da mudança ela se acalmou um pouco né, deve tar feliz para caralho que eu não vou estar perturbando ela pelos próximos 5 dias.” 
+Aurora: “Depois da mudança ela se acalmou um pouco, deve ta feliz para caralho que eu não vou perturbar ela pelos próximos 5 dias.” 
 
 Miguel: “Aliás, desculpa não ter conseguido te ajudar naquele dia, não tava afim de responder ninguém…”
 
-Aurora: “Tranquilo né. Só fiquei na chuva fora de casa por 40 minutos a mais até eu mandar mensagem pro Diego e ele me abrigar.”
+Aurora: “Tranquilo. Só fiquei na chuva fora de casa por 40 minutos a mais até eu mandar mensagem pro Diego e ele me abrigar.”
 
 Diego: “Não dá pra mudar o passado né galera, vamos viver o presente. E o presente é a gente na porra de uma ilha num sol de 35C! Foda-se o resto.”
 
@@ -88,10 +89,10 @@ Personagens participantes: [[Miguel Campos]], [[Mirella Anansiah]], [[Aurora Pon
 
 Miguel pensando: Meu deus, que merda ter vindo no último barco, todo mundo já chegou. Agora vou ter que cumprimentar todo mundo.
 
-Miguel: Ei, Thomas!
-Thomas: Ei, Miguel!
+Miguel: Oi Thomas!
+Thomas: Oi Miguel!
 Miguel: Gostou daqui?
-Thomas: Parece lindo! Estou ansioso para esse fim de semana com vocês!
+Thomas: Parece legal! Estou ansioso para esse fim de semana com vocês!
 Nick: Vejam se não são os meus dois homens favoritos desse mundo. 
 Miguel e Thomas: Ei, Nick!
 Nick: Como estão?
@@ -101,20 +102,20 @@ Nick: To animado pra caralho. Esse lugar é muito bonito.
 Mirella: Ei, pessoal
 Miguel, Thomas: Ei, Mirella
 Nick: Como você tá?
-Mirella: Meio mal, aquele barco me deixou com enjoo, mas a Liz me deu um dramin, devo ficar legal em breve.
+Mirella: Meio mal, aquele barco me deixou com enjoo,  a Liz me deu um dramin, devo ficar legal em breve.
 Liz: Não há nada que um dramin e um dorflex não resolva na verdade.
 Liz: E aquele barco era muito foda. 
 Nick: Ei, Liz! Cade o Martin?
-Liz: Tá falando com o piloto, sei lá do que.
-Aurora: 10 reais que ele tá pedindo pro piloto ensinar ele a usar o barco.
+Liz: Tá falando com o comandante, sei lá do que.
+Aurora: 10 reais que ele tá pedindo pro comandante ensinar ele a usar o barco.
 Diogo: 10 reais que ele tá enrolando para não pagar a viagem hehe. 
 Thomas: Eaí Aurora? Quais as expectativas pra esse fim de semana?
-Aurora: Tentar não matar vocês no dia 2. 
-Diogo: Se depender de mim, você não vai conseguir.  Vou te pertubar o fim de semana inteirinho.
+Aurora: Tentar não matar vocês no segundo dia
+Diogo: Se depender de mim, você não vai conseguir.  Vou te pertubar o fim de semana inteiro.
 Aurora: Hahahah, você não é maluco.
-Martin: Ei, pessoal!
-Todos: Ei, Martin!
-Martin: Novidades, parece que vai ter uma tempestade hoje a noite então o piloto tá voltando agora e não vai conseguir vir nem amanhã, nem depois. Mas vem na segunda normal.
+Martin: Oi, pessoal!
+Todos: Eai, Martin!
+Martin: Novidades, parece que vai ter uma tempestade hoje a noite então o comandante tá voltando agora e não vai conseguir vir nem amanhã, nem depois. Mas vem na segunda normal.
 Mirella: Mas a gente não ia voltar na segunda de qualquer forma?
 Martin: É, ele falou mais se fosse por conta de alguma emergência ou se quiséssemos turistar por outra ilha que não iria rolar. 
 Nick: Mas se a tempestade é hoje por que ele não consegue vir amanhã ou depois?
@@ -137,8 +138,8 @@ Diego: Fechou, quando você tiver terminado passa lá no quarto.
 * Inicio da gameplay topdown
 
 IF [[Mirella Anansiah]] encontrada (Q2): 
-	Mirella: Ei, Miguel! 
-	Miguel: Ei, Mi! Teu quarto é muito bonito! 
+	Mirella: Eai, Miguel! 
+	Miguel: Oi, Mi! Teu quarto é muito bonito! 
 	Mirella: Obrigada! Senti sua falta na festa do Martin, mas entendo porque não foi também
 	Miguel: É... então....
 	Mirella: Mas vocês já tão se falando normal né? Vi lá na entrada.
