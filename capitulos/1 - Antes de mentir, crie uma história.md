@@ -161,4 +161,16 @@ IF [[Liz Lokistar]] encontrada (Sala de Jogos):
 	Miguel: Oi, Liz!
 	Liz: Tá afim de jogar? 
 	Miguel: Tô explorando a casa ainda. Cadê o Martin? 
-	Liz: Tá 
+	Liz: Tá na cozinha, o que houve?
+	Miguel: Nada não. Só imaginei que ele estaria aqui com você.
+	Liz: Ah, sim. 
+IF [[Martin Maui’iki]] encontrado (Cozinha):
+	Martin: Ei
+	Miguel: Oi 
+	Martin: Tudo bem? 
+	Miguel: Tudo
+	Martin: Porque não apareceu semana passada?
+	Miguel: Tive um problema de última hora, não consegui ir.
+	Martin: A gente sentiu sua falta. 
+	Miguel: Ah, talvez tenha sido melhor assim
+	Martin: 
