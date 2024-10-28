@@ -27,7 +27,7 @@ Diego: "Não mais que o Gustavo né, não tou vendo o carro dele haha"
 
 Miguel: "E se não viajássemos e ficássemos aqui em casa jogando Overcooked e comendo Doritos?"
 
-Diego:  "Só por qeu ex vai tá lá?"
+Diego:  "Só por que teu ex vai tá lá?"
 
 Miguel: "Porra, o cu tá na mão, medo de perguntarem no verdade ou desafio se eu ainda gosto do meu ex"
 
